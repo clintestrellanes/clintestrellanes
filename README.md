@@ -7,34 +7,31 @@
     <tr style="border: none;">
       <td valign="top" style="border: none;">
 <pre><code>
-                                        
-                    L                   
-                   OL(                  
-                  vQLL;                 
-                 ~0QLLL                 
-                'O0QLLLQ                
-                OO0J QLLJ               
-               mOOO   LLL|              
-              XZOO    ;LLQ,             
-             ~ZZO'     )LQ0.            
-            .mZZ;       YQ0O            
-            mmZf         Q000           
-           wmmL           000j          
-         .mmmm             00QC         
- ''   'xmmmmm              l0QLLO~.   , 
-  tZZmmmmmmm'               (QLL0Ommmm^ 
-  'ZZmmmmmmi                 JLL0Ommmm  
-  'ZZmmmmmf                   LL0Ommmm  
-  nZZmmmmm                    ;L0Ommmm: 
-.`    Ommm`                   |L0O(   ..
-  `^    >mm;                 xL0'    i  
-    .Q      uO            `m]     (^    
-       :w,        ' : `       .C{       
-          .fwmm0OO0QLLLQCQ0Zn.          
-                                        
-                                       '
+                                    
+                 .Q                 
+                 0LQ                
+                ZQLL<               
+               u0QLLL'              
+              iO00^LLL              
+             .OO0  ~LL0             
+             ZOO'   YLLQ            
+            wZO<     OLQ/           
+            QmZv      0Q0^          
+          (mmm         000          
+         <mmm         '00Q.         
+       `mmmm           i0QLQ        
+  ZZmmmmmmm.             /QLL0Zmmmj 
+  [Zmmmmmm;               0LL0Zmmm  
+  {Zmmmmm{                 QL0Zmmm  
+  Zmmmmmm                  IL0Zmmwn 
+ -    wmml                 JL0r   I 
+   C    `mm              ,Qn    f   
+     :u.     +['    ^f^     [-      
+        'pmr    )0Lr    iQO^        
+              .^<]]_I'              
+                                    
 </code></pre>
-    </td>
+      </td>
     <td style="border: none; font-family: 'JetBrains Mono', 'Fira Code', 'Cascadia Code', Consolas, Courier New, monospace; text-align: left; padding-left: 20px;">
         <h3 style="margin-top: 0;">clint@root</h3>
         <b>OS:</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; I use ARCH btw<br>
@@ -52,6 +49,7 @@
     </td>
     </tr>
   </table>
+
 <br>
 
 ## 🛠️ Tech Stack & Environment
