@@ -28,5 +28,6 @@ specializing in full-stack web and mobile application development.
   A comprehensive dental booking and records system. Built with React Native and Symfony, featuring a custom hybrid WebSocket and Firebase Cloud Messaging architecture with manual, native mobile notification configurations.
 - **TaskBuddy** - *Founder & CEO*
   A Dumaguete City-based startup project and recognized finalist in the STEP UP MADASIGON 2025 cohort.
-- **Rile** - *Lead Developer*
+- **Riley** - *Lead Developer*
   A project manager and tracker web application integrated with AI agents that orchestrate in various tools to help manage projects efficiently.
+  ★ https://riley-assistant.netlify.app/
