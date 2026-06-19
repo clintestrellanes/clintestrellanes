@@ -1,51 +1,9 @@
-<h1 align="center">Hi 👋, I'm Clint Jay</h1>
-<h3 align="center">Developer & Founder</h3>
+✦ Hello, I am Clint Jay Estrellanes, Information Technology undergraduate at Negros Oriental State University 
+specializing in full-stack web and mobile application development. 
 
-<br>
+✦ My focus is on engineering scalable systems, implementing manual native configurations, and building efficient architectures using tools like React, React Native, and Symfony. 
 
-  <table border="0" style="border: none; border-collapse: collapse;">
-    <tr style="border: none;">
-      <td valign="top" style="border: none;">
-<pre><code">
-                  ████          ▄███
-                ▀█▄▄▄▄██        █▄▄▄▄██
-               ██▄▀   ▄▄███████▄▀ ▀▀▄▄██
-               ██ ████ ▀▄▄▄▄▄▄▄ ▄███  ██
-               ██ ████ ▀▄▄▄▄▄▄▄ ▄███  ██
-               ██      ▀▄▄▄▄▄▄▄       ██
-             ██▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄█
-             ██▄▄▄██▄▄▄▄▄▄▄▄▄▄▄▄▄▄██▄▄▄▄█
-             ██▄▄▄▀▀██████████████▀▀▄▄▄▄█
-               ██▄▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▄▄██
-               ██▄▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▄▄██
-               ██▄▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▄▄██
-         ▀   ████▄▄▄▀▀▀▀▀▀▀▀▀▀▀▀▀▀▄▄▄▄███▀
-        ▀▀███▄▄██▄██▄▄▀▀▀▀▀▀▀▀▀▀▄▄██▄▄██▄████▀▀
-        ██▄▄▄▄▄██▄██▄▄▀▀▀▀▀▀▀▀▀▀▄▄██▄▄██▄▄▄▄▄██
-        ██▄▄▄▄▄██▄████▄▄▀▀▀▀▀▀▀▄▄███▄▄██▄▄▄▄▄██
-          ███▄▄██▄▄▄████▄▀▀▀▀▄▄███▄▄▄▄██▄████
-           ████▄▄█▄▄▄▄▄▄█▄▄▄▄██▄▄▄▄▄██▄▄███
-         ▀█▄▄▄▄▄▄███▄▄▄▄█▄▄▄▄██▄▄▄████▄▄▄▄▄██
-         ▀███████████████████████████████████
-</code></pre>
-      </td>
-    <td style="border: none; font-family: 'JetBrains Mono', 'Fira Code', 'Cascadia Code', Consolas, Courier New, monospace; text-align: left; padding-left: 20px;">
-        <h3 style="margin-top: 0;">clint@root</h3>
-        <b>OS:</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; I use ARCH btw<br>
-        <b>Nickname:</b>&nbsp; Clint-KuyaJ-G-Yang<br>
-        <b>Quote:</b>&nbsp;&nbsp;&nbsp;&nbsp; "In Crisis there is Opportunity"<br>
-        <b>Age:</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Right Age<br>
-        <b>Interest:</b>&nbsp; Exploration, Music, Games, Art, Life<br>
-        <b>Shell:</b>&nbsp;&nbsp;&nbsp;&nbsp; Ghostty + Nushell + Starship<br>
-        <b>Editor:</b>&nbsp;&nbsp;&nbsp; Zed <br>
-        <b>Focus:</b>&nbsp;&nbsp;&nbsp;&nbsp; Developing Applications<br>
-        <b>Role:</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Founder & CEO @ TaskBuddy<br>
-        <b>Org:</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; President @ The Idealists' Guild<br>
-        <b>Education:</b> IT Undergrad @ NORSU<br>
-        <b>Location:</b>&nbsp; Bayawan City, Philippines<br>
-    </td>
-    </tr>
-  </table>
+✦ I also actively manage technical and entrepreneurial projects, serving as the Founder and CEO of TaskBuddy.
 
 <br>
 
@@ -70,18 +28,5 @@
   A comprehensive dental booking and records system. Built with React Native and Symfony, featuring a custom hybrid WebSocket and Firebase Cloud Messaging architecture with manual, native mobile notification configurations.
 - **TaskBuddy** - *Founder & CEO*
   A Dumaguete City-based startup project and recognized finalist in the STEP UP MADASIGON 2025 cohort.
-
-## 🎵 On Repeat
-
-<div align="center">
-<a href="https://open.spotify.com/track/2yCJEAAeX6S7g3dD7ZkM9H" target="_blank" style="text-decoration: none;">
-  <div style="display: flex; align-items: center; gap: 16px; background: #0f0f0f; padding: 10px 20px 10px 10px; border-radius: 14px; width: fit-content; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; border: 1px solid #2a2a2a;">
-    <img src="https://cdn.prod.website-files.com/64cb5f36172f60e17c655f5f/65ddd57c62c5d739e1c6156a_CAS-ART-1600%20(1).jpg" width="80" height="80" style="border-radius: 10px;" />
-    <div>
-      <div style="color: white; font-weight: 600; margin: 0;">Tejano Blue</div>
-      <div style="color: #aaa; font-size: 14px;">Cigarettes After Sex</div>
-      <div style="color: #1DB954; font-size: 12px; margin-top: 5px;">🎵 Spotify</div>
-    </div>
-  </div>
-</a>
-</div>
+- **Rile** - *Lead Developer*
+  A project manager and tracker web application integrated with AI agents that orchestrate in various tools to help manage projects efficiently.
